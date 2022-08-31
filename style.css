@@ -1,0 +1,17 @@
+.bg-image {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+}
+
+.header-text {
+    color: aliceblue;
+    text-align: center;
+    position: relative;
+}
+
+.link-button a {
+    text-decoration: none;
+    color: azure;
+}
