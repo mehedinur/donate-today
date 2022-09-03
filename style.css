@@ -22,7 +22,7 @@ body {
     position: absolute;
 }
 
-.link-button a {
+.first-button a {
     text-decoration: none;
     color: azure;
     background-color: #FF5959;
@@ -117,4 +117,105 @@ body {
     color: #707070;
     font-weight: 400;
     font-size: 18px;
+    margin-bottom: 100px;
+}
+
+.tri-part {
+    display: flex;
+    width: 100%;
+    margin-bottom: 50px;
+
+}
+
+.food {
+    background-color: #bee5e9;
+    padding: 100px 23px 54px 23px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.education {
+    background-color: #f5afaf;
+    padding: 100px 23px 54px 23px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.family {
+    background-color: #FFF4D6;
+    padding: 100px 23px 54px 23px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.get-update {
+    text-align: center;
+}
+
+.form-part {
+    background-color: #FFF4D6;
+    height: 170px;
+    width: 50%;
+    margin-left: 280px;
+}
+
+.email {
+    background-color: #D9D9D9;
+    width: 300px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: #FF5959;
+    color: #FFFFFF;
+    padding: 10px 25px;
+    border-radius: 5px;
+    margin-top: 10%;
+}
+
+.feedback-part {
+    text-align: center;
+
+}
+
+.feedback-part form {
+    margin-bottom: 10px;
+}
+
+.link-buttons {
+    text-decoration: none;
+    color: #FAFAFA;
+    background-color: #FF5959;
+    padding: 10px 35px;
+    border-radius: 5px;
+}
+
+footer {
+    margin: 0;
+    padding: 0;
+
+}
+
+.last-part {
+    color: #FFFFFF;
+    background-color: black;
+    height: 170px;
+}
+
+.last-part h1 {
+    color: #FF5959;
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+    margin-left: 50%;
+
+}
+
+.last-part p {
+    font-weight: 400;
+    margin-left: 50%;
+    font-family: 'Inter';
 }
