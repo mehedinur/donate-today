@@ -101,3 +101,20 @@ body {
     border-radius: 10px;
 
 }
+
+.middle-part {
+    text-align: center;
+    margin-top: 140px;
+    margin-bottom: 0;
+}
+
+.middle-part h1 {
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.middle-part p {
+    color: #707070;
+    font-weight: 400;
+    font-size: 18px;
+}
